@@ -1,3 +1,5 @@
 # DS-Assignment
 
-![Assignment Sheet](https://github.com/BeholdenArt/DS-Assignment/blob/main/DS-Lab-Practicals.pdf)
+## SUBMITTED BY  : Priyanshu N Bairwa
+## ENROLLMENT NO.: 191310132117
+## SECTION       : B (B3)
