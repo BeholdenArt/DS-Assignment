@@ -1,3 +1,3 @@
 # DS-Assignment
 
-![Assignment Sheet](file:///C:/Users/priya/Downloads/DS-Lab-Practicals.pdf)
+![Assignment Sheet](https://github.com/BeholdenArt/DS-Assignment/blob/main/DS-Lab-Practicals.pdf)
